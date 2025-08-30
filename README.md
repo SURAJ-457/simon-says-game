@@ -1,2 +1,2 @@
 # simon-says-game
-this is a simple game 
+This is a simple game.
